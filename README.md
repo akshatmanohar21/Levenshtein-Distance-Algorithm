@@ -2,7 +2,7 @@
 
 This project calculates the **Levenshtein Distance** between different words. The Levenshtein Distance is a way to measure how different two words are by counting the number of changes (**insertions, deletions, or replacements**) needed to make the words the same.
 
-## 📌 How It Works
+## How It Works
 - The program takes **two words** as input.
 - It uses **Dynamic Programming** to calculate the minimum number of operations needed.
 - The result is displayed as the **edit distance** between the two words.
